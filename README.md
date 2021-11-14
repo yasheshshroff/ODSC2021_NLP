@@ -1,5 +1,7 @@
 # NLP with PyTorch
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yasheshshroff/ODSC2021_NLP_PyTorch/HEAD)
+
 Natural Language Processing Workshop at ODSC West 2021
 
 Topics:
