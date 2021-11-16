@@ -1,4 +1,4 @@
-torch >= "1.9.1"
+# torch >= "1.9.1"
 numpy >= "1.19.2"
 matplotlib >= "3.3"
 sklearn 
@@ -6,5 +6,6 @@ pandas >= "1.1"
 seaborn >= "0.11"
 Flask >= "2.0"
 rich >= "10.12"
-transformers >= "4.12"
+# https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956
+nbgitpuller
 # powerline-status====2.7
