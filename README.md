@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yasheshshroff/ODSC2021_NLP_PyTorch/HEAD)
 
+Fast Binder Load [reference](https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yasheshshroff/binder-sandbox/master?urlpath=git-pull?repo=https:%2F%2Fgithub.com%2Fyasheshshroff%2FODSC21_NLP)
 Natural Language Processing Workshop at ODSC West 2021
 
 Topics:
